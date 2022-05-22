@@ -15,5 +15,4 @@ _Esto cursiva_
 
 ...
 
-> **Nota:** _Tengo que ponerme a estudiar un poco de `Markdown`
-
+> **Nota:** _Tengo que ponerme a estudiar un poco de `Markdown`_
