@@ -1,2 +1,3 @@
 name = input('Dime tu nombre:')
-print('¡Hola %s!, ¿como estás?')
+print('¡Hola %s!, ¿como estás?' % name)
+
