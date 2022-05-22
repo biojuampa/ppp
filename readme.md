@@ -17,11 +17,3 @@ _Esto cursiva_
 
 > **Nota:** _Tengo que ponerme a estudiar un poco de `Markdown`
 
----
-
-> _Esta es  escrita en «otra_rama»_
-
----
-
-> _Y esta en «nueva_rama»_
-
